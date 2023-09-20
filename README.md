@@ -4,4 +4,4 @@ A python program that uses selenium to webscrape spotify.com for playlist detail
 
 ## How To Run: ##
 
-Download webscraperSpotify.py, installLibraries.py, and requirements.txt, then run webscraperSpotify.py and enter in the playlist name and description or playlist link.
+Download webscraperSpotify.py, installLibraries.py, requirements.txt, and get_pip.py, then run webscraperSpotify.py and enter in the playlist name and description or playlist link.
